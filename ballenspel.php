@@ -19,7 +19,6 @@
 
     <?php
 
-        // Eerst gaan wij alle noodzakelijke variabelen aanmaken
 
         $numberOfBalls = random_int(1, 10); // Aantal te gebruiken ballen in het spel
 
